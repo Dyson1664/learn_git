@@ -1,16 +1,16 @@
-# This is a sample Python script.
-
-# Press Shift+F10 to execute it or replace it with your code.
-# Press Double Shift to search everywhere for classes, files, tool windows, actions, and settings.
+string1 = ['a', 'b', 'c']
+string2 = ['1', '2', '3']
 
 
-def print_hi(name):
-    # Use a breakpoint in the code line below to debug your script.
-    print(f'Hi, {name}')  # Press Ctrl+F8 to toggle the breakpoint.
+
+a = zip(string1, string2)
+b = ''
+for i in a:
+    b += ''.join(i)
+
+print(b)
 
 
-# Press the green button in the gutter to run the script.
-if __name__ == '__main__':
-    print_hi('PyCharm')
+print("lol")
 
-# See PyCharm help at https://www.jetbrains.com/help/pycharm/
+
