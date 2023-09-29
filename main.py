@@ -20,5 +20,9 @@ print('ooooo')
 
 
 
-for i in 'its Friday Yeah':
-    print(i, ':)')
+<<<<<<< Updated upstream
+
+=======
+for i in 'im code':
+    print(i)
+>>>>>>> Stashed changes
