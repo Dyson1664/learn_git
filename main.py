@@ -28,3 +28,7 @@ for i in 'im code':
 for i in 'im code 2222':
     print(i)
 
+
+
+for i in range(201):
+    print(i, 'code')
