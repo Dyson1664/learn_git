@@ -20,9 +20,11 @@ print('ooooo')
 
 
 
-<<<<<<< Updated upstream
 
-=======
 for i in 'im code':
     print(i)
->>>>>>> Stashed changes
+
+
+for i in 'im code 2222':
+    print(i)
+
