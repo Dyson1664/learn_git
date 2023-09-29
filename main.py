@@ -21,6 +21,7 @@ print('ooooo')
 
 
 
+
 for i in 'im code':
     print(i)
 
@@ -28,7 +29,13 @@ for i in 'im code':
 for i in 'im code 2222':
     print(i)
 
+for i in 'im pcccccc':
+    print(i)
 
+
+for i in range(101):
+    print(i)
 
 for i in range(201):
     print(i, 'code')
+print('done')
